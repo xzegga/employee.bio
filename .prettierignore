@@ -1,0 +1,22 @@
+# Ignore artifacts:
+azure-pipelines.yml
+.eslintrc.json
+.prettierrc.json
+.vscode/settings.json
+kube/dev-deployment.yml
+kube/production-deployment.yml
+kube/stress-deployment.yml
+load-dashboard.js
+package-lock.json
+package.json
+pnpm-lock.yaml
+src/setupTests.ts
+tsconfig.json
+README.md
+**/.git
+**/.svn
+**/public
+**/node_modules
+**/nginx
+**/*.svg
+**/*.json
